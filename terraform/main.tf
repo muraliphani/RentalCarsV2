@@ -2,7 +2,8 @@ locals {
 	  vpc_id           = "vpc-09f6df513c48fdef7"
 	  subnet_id        = "subnet-06733639e38978678"
 	  ssh_user         = "ubuntu"
-	  key_name         = "project1"
+	  key_name         = "project2"
+
 	}
 
 
