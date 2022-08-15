@@ -3,6 +3,7 @@ locals {
 	  subnet_id        = "subnet-06733639e38978678"
 	  ssh_user         = "ubuntu"
 	  key_name         = "project2"
+
 	}
 
 
