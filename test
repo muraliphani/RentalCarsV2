@@ -1,0 +1,1 @@
+/opt/IBM/BPM/v86/profiles/Dmgr1/bin/wsadmin.sh -lang jython -appendtrace 'true' -f '/opt/IBM/maestro/agent/usr/servers/Workflow_Center_Dmgr.11661072692998/scripts/BPMPCDMGR/wsadmin.py' '/tmp/tmptUyNVHwsadmin_input' '/tmp/tmpmLt6lXwsadmin_output' 'wsutil' 'bpm_wsutil' 'smart_process_wsutil'
